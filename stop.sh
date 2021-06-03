@@ -1,3 +1,3 @@
-docker container stop container valheim-server
-docker container rm container valheim-server
+docker container stop valheim-server
+docker container rm  valheim-server
  
